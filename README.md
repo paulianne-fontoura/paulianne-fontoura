@@ -19,5 +19,4 @@
 <br/>
 <br>
 
-<em><b> Get in touch with me by </b>  <a href="https://linkedin.com/in/pauliannefontoura">LinkedIn</a> <img height="16px" width="16px" alt="PowerBI " src="/images/linkedin.png"> or <a href="mailto:pauliannefontoura.contact@gmail.com"> e-mail. <img height="16px" width="16px" alt="PowerBI " src="/images/mail.png"></a>
-</em> </br>
+<em><b> <br>Get in touch with me by </b>  <a href="https://linkedin.com/in/pauliannefontoura">LinkedIn</a> <img height="16px" width="16px" alt="PowerBI " src="/images/linkedin.png"> or <a href="mailto:pauliannefontoura.contact@gmail.com"> e-mail. <img height="16px" width="16px" alt="PowerBI " src="/images/mail.png"></a> </em> </br> </br>
