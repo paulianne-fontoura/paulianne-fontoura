@@ -13,7 +13,7 @@
 <img align="left" height="32px" width="32px" alt="PY logo" src="/images/python.png">
 <img align="left" height="32px" width="32px" alt="Excel logo" src="/images/excel.png">
 <img align="left" height="32px" width="32px" alt="Figma logo" src="/images/figma.png">
-<img align="left" height="32px" width="32px" alt="QlikView" src="/images/qlik.jpg">
+<img align="left" height="32px" width="32px" alt="Tbleau" src="/images/tableau.jpg">
 <img align="left" height="32px" width="32px" alt="Rest API logo" src="/images/rest.jpg">
 <img align="left" height="32px" width="32px" alt="GitHub logo" src="/images/github.jpg">
 
