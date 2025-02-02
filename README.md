@@ -17,3 +17,11 @@
 <img align="left" height="32px" width="32px" alt="Tableau" src="/images/tableau.svg">
 <img align="left" height="32px" width="32px" alt="QlikView" src="/images/qlik.svg">
 <br/>
+
+### ⇄ Get in touch
+<br>
+<img align="center" height="32px" width "32px" alt="LinkedIn" src="/images/linkedin.png">
+</br> <center> <a href="https://linkedin.com/in/pauliannefontoura">LinkedIn Profile </a></center>
+<br>
+<img align="center" height="32px" width "32px" alt="mails" src="/images/mail.png">
+</br> <center> <a href="mailto:pauliannefontoura.contact@gmail.com"> e-mail </a></center>
