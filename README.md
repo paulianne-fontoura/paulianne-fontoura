@@ -15,6 +15,6 @@
 <img align="left" height="32px" width="32px" alt="Tbleau" src="/images/r.png">
 <img align="left" height="32px" width="32px" alt="Rest API logo" src="/images/restapi.png">
 <img align="left" height="32px" width="32px" alt="Rest API logo" src="/images/tableau.svg">
-<img align="left" height="32px" width="32px" alt="Rest API logo" src="/images/qlik.jpg">
+<img align="left" height="32px" width="32px" alt="Rest API logo" src="/images/qlik.svg">
 <img align="left" height="32px" width="32px" alt="Rest API logo" src="/images/github-square.svg">
 <br/>
