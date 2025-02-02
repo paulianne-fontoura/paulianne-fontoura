@@ -14,7 +14,7 @@
 <img align="left" height="32px" width="32px" alt="Figma logo" src="/images/figma.png">
 <img align="left" height="32px" width="32px" alt="Tbleau" src="/images/r.png">
 <img align="left" height="32px" width="32px" alt="Rest API logo" src="/images/restapi.png">
-<img align="left" height="32px" width="32px" alt="Rest API logo" src="/images/tableau.svg">
-<img align="left" height="32px" width="32px" alt="Rest API logo" src="/images/qlik.jog">
-<img align="left" height="32px" width="32px" alt="Rest API logo" src="/images/github-square">
+<img align="left" height="32px" width="32px" alt="Rest API logo" src="/images/tableau.png">
+<img align="left" height="32px" width="32px" alt="Rest API logo" src="/images/qlik.jpg">
+<img align="left" height="32px" width="32px" alt="Rest API logo" src="/images/github-square.jpg">
 <br/>
