@@ -20,5 +20,4 @@
 
 ### ⇄ Get in touch
 <br>
-<center> <a href="https://linkedin.com/in/pauliannefontoura">LinkedIn  </a></center>
-</br> <center> <a href="mailto:pauliannefontoura.contact@gmail.com"> e-mail </a></center>
+<div allign="center"> <a href="https://linkedin.com/in/pauliannefontoura">LinkedIn</a> <a href="mailto:pauliannefontoura.contact@gmail.com"> e-mail </a></div>
