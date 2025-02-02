@@ -20,8 +20,5 @@
 
 ### ⇄ Get in touch
 <br>
-<img align="center" height="32px" width "32px" alt="LinkedIn" src="/images/linkedin.png">
-</br> <center> <a href="https://linkedin.com/in/pauliannefontoura">LinkedIn Profile </a></center>
-<br>
-<img align="center" height="32px" width "32px" alt="mails" src="/images/mail.png">
+<center> <a href="https://linkedin.com/in/pauliannefontoura">LinkedIn  </a></center>
 </br> <center> <a href="mailto:pauliannefontoura.contact@gmail.com"> e-mail </a></center>
