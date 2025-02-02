@@ -12,8 +12,8 @@
 <img align="left" height="32px" width="32px" alt="PY logo" src="/images/python.png">
 <img align="left" height="32px" width="32px" alt="Excel logo" src="/images/excel.png">
 <img align="left" height="32px" width="32px" alt="Figma logo" src="/images/figma.png">
-<img align="left" height="32px" width="32px" alt="Tbleau" src="/images/r.png">
+<img align="left" height="32px" width="32px" alt="R" src="/images/r.png">
 <img align="left" height="32px" width="32px" alt="Rest API logo" src="/images/restapi.png">
-<img align="left" height="32px" width="32px" alt="Rest API logo" src="/images/tableau.svg">
-<img align="left" height="32px" width="32px" alt="Rest API logo" src="/images/qlik.svg">
+<img align="left" height="32px" width="32px" alt="Tableau" src="/images/tableau.svg">
+<img align="left" height="32px" width="32px" alt="QlikView" src="/images/qlik.svg">
 <br/>
