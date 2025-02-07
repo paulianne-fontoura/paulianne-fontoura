@@ -1,9 +1,20 @@
 ### 👋 Hi I'm Pauli!
 
-- 🌱 I’m currently learning **JS and HTML & CSS**
-- 🤔 I’m looking for help with **learning GitHub Actions**
-- 💬 Ask me about **Python and Telegram bots development**
-- ⚡ Fun fact: **I like solving puzzles**
+π(Data Scientist) = Cov[X:Data , Y:Health ] + Var[Z:Art ] + θ
+where:
+X ~ Analysis³ (3 years of data analytics)
+Y ~ Veg^10 (decade-long vegetarianism driving health insights)
+Z = ∫Ballet(t)dt + Symphony(f) + ∇Impressionism
+θ = Constant(Curiosity | Ethics)
+
+Solving the equation of human-centric analytics through:
+🖥️ Health Data research → reducing real-world variance
+📈 Business Intelligence gradients → optimizing organizational loss functions
+🎨 Artful communication of insights (Rejected H₀: "Data ≠ Poetry")
+
+Training weights:
+⚖️ Balancing PCA (Principal Curiosity Axes) in DS/Business Analytics
+🩰 Orthogonal pursuits: Pirouettes in R^3 space, Claude Monet loss landscapes, & Mozart activation functions
 
 ### 📐 Languages and Tools
 
