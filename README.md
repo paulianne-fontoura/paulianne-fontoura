@@ -1,6 +1,6 @@
 ### 👋 Hi I'm Pauli!
 <br>
-<b></b>π(Data Scientist) = Cov[X:Data , Y:Health ] + Var[Z:Art ] + θ</b>
+### π(Data Analyst) = Cov[X:Data , Y:Health ] + Var[Z:Art ] + θ</b>
 <br>where:
 <br>X ~ Analysis³ (3 years of data analytics)
 <br>Y ~ Veg^10 (decade-long vegetarianism driving health insights)
