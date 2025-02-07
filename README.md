@@ -1,7 +1,7 @@
 ### 👋 Hi I'm Pauli!
-<br>
-<h5>π(Data Analyst) = Cov[X:Data , Y:Health ] + Var[Z:Art ] + θ</h3> 
-<br>where:
+
+<i><h3>π(Data Analyst) = Cov[X:Data , Y:Health ] + Var[Z:Art ] + θ</h3></i>
+where:
 <br>X ~ Analysis³ (3 years of data analytics)
 <br>Y ~ Veg^10 (decade-long vegetarianism driving health insights)
 <br>Z = ∫Ballet(t)dt + Symphony(f) + ∇Impressionism
@@ -15,10 +15,10 @@
 <br>Training weights:
 <br>⚖️ Balancing PCA (Principal Curiosity Axes) in DS/Business Analytics
 <br>🩰 Orthogonal pursuits: Pirouettes in R^3 space, Claude Monet loss landscapes, & Mozart activation functions
-<br>
 
-<br>
-<img align="left" height="32px" width="32px" alt="PowerBI " src="/images/power-bi.svg">
+
+
+<br><img align="left" height="32px" width="32px" alt="PowerBI" src="/images/power-bi.svg">
 <img align="left" height="32px" width="32px" alt="SQL logo" src="/images/sql.png">
 <img align="left" height="32px" width="32px" alt="PY logo" src="/images/python.png">
 <img align="left" height="32px" width="32px" alt="Excel logo" src="/images/excel.png">
