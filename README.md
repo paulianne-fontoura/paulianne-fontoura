@@ -17,7 +17,7 @@
 <br>🩰 Orthogonal pursuits: Pirouettes in R^3 space, Claude Monet loss landscapes, & Mozart activation functions
 <br>
 ### 📐 Languages and Tools
-
+<br>
 <img align="left" height="32px" width="32px" alt="PowerBI " src="/images/power-bi.svg">
 <img align="left" height="32px" width="32px" alt="SQL logo" src="/images/sql.png">
 <img align="left" height="32px" width="32px" alt="PY logo" src="/images/python.png">
