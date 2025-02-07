@@ -1,21 +1,21 @@
 ### 👋 Hi I'm Pauli!
-
+<br>
 π(Data Scientist) = Cov[X:Data , Y:Health ] + Var[Z:Art ] + θ
-where:
-X ~ Analysis³ (3 years of data analytics)
-Y ~ Veg^10 (decade-long vegetarianism driving health insights)
-Z = ∫Ballet(t)dt + Symphony(f) + ∇Impressionism
-θ = Constant(Curiosity | Ethics)
-
-Solving the equation of human-centric analytics through:
-🖥️ Health Data research → reducing real-world variance
-📈 Business Intelligence gradients → optimizing organizational loss functions
-🎨 Artful communication of insights (Rejected H₀: "Data ≠ Poetry")
-
-Training weights:
-⚖️ Balancing PCA (Principal Curiosity Axes) in DS/Business Analytics
-🩰 Orthogonal pursuits: Pirouettes in R^3 space, Claude Monet loss landscapes, & Mozart activation functions
-
+<br>where:
+<br>X ~ Analysis³ (3 years of data analytics)
+<br>Y ~ Veg^10 (decade-long vegetarianism driving health insights)
+<br>Z = ∫Ballet(t)dt + Symphony(f) + ∇Impressionism
+<br>θ = Constant(Curiosity | Ethics)
+<br>
+<br>Solving the equation of human-centric analytics through:
+<br>🖥️ Health Data research → reducing real-world variance
+<br>📈 Business Intelligence gradients → optimizing organizational loss functions
+<br>🎨 Artful communication of insights (Rejected H₀: "Data ≠ Poetry")
+<br>
+<br>Training weights:
+<br>⚖️ Balancing PCA (Principal Curiosity Axes) in DS/Business Analytics
+<br>🩰 Orthogonal pursuits: Pirouettes in R^3 space, Claude Monet loss landscapes, & Mozart activation functions
+<br>
 ### 📐 Languages and Tools
 
 <img align="left" height="32px" width="32px" alt="PowerBI " src="/images/power-bi.svg">
