@@ -3,7 +3,7 @@
 <i><h3>π(Data Analyst) = Cov[X:Data , Y:Health ] + Var[Z:Art ] + θ</h3></i>
 where:
 <br>X ~ Analysis (5 years of data analytics)
-<br>Y ~ Veg^10 (decade-long vegetarianism driving health insights)
+<br>Y ~ Veg^15 (decade-long vegetarianism driving health insights)
 <br>Z = ∫Ballet(t)dt + Symphony(f) + ∇Impressionism
 <br>θ = Constant (Curiosity | Ethics)
 <br>
