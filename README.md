@@ -1,32 +1,14 @@
-### Hi I'm Pauli!
+# Paulianne Fontoura
 
-<i><h3>π(Data Analyst) = Cov[X:Data , Y:Health ] + Var[Z:Art ] + θ</h3></i>
-where:
-<br>X ~ Analysis (5 years of data analytics)
-<br>Y ~ Veg^15 (decade-long vegetarianism driving health insights)
-<br>Z = ∫Ballet(t)dt + Symphony(f) + ∇Impressionism
-<br>θ = Constant (Curiosity | Ethics)
-<br>
-<br> Solving the equation of human-centric analytics through:
-<br> Health Data research → reducing real-world variance
-<br> Business Intelligence gradients → optimizing organizational loss functions
-<br> Artful communication of insights (Rejected H₀: "Data ≠ Poetry")
-<br>
+Data analyst and analytics engineer. I build data pipelines in SQL, Python and dbt, with the tests and checks that keep the numbers right.
 
+My work covers ingestion from heterogeneous sources, dimensional modeling, data tests, reconciliation against published figures, and automated reporting.
 
+**Publications**
+- First author, peer-reviewed paper on a clinical decision-support system aligned with WHO guidelines (2025)
+- Co-author, ICU bed planning, *Health Environments Research & Design Journal* (2026)
+- Territorial mortality analysis with CépiDc-Inserm open data
 
+**Stack:** SQL · Python · dbt · DuckDB · BigQuery · Power BI
 
-
-<br><img align="left" height="32px" width="32px" alt="PowerBI" src="/images/power-bi.svg">
-<img align="left" height="32px" width="32px" alt="SQL logo" src="/images/sql.png">
-<img align="left" height="32px" width="32px" alt="PY logo" src="/images/python.png">
-<img align="left" height="32px" width="32px" alt="Excel logo" src="/images/excel.png">
-<img align="left" height="32px" width="32px" alt="Figma logo" src="/images/figma.png">
-<img align="left" height="32px" width="32px" alt="R" src="/images/r.png">
-<img align="left" height="32px" width="32px" alt="Rest API logo" src="/images/restapi.png">
-<img align="left" height="32px" width="32px" alt="Tableau" src="/images/tableau.svg">
-<img align="left" height="32px" width="32px" alt="QlikView" src="/images/qlik.svg">
-<br/>
-<br>
-
-<em><b> <br>Get in touch with me by </b>  <a href="https://linkedin.com/in/pauliannefontoura">LinkedIn</a> <img height="16px" width="16px" alt="PowerBI " src="/images/linkedin.png"> or <a href="mailto:pauliannefontoura.contact@gmail.com"> e-mail. <img height="16px" width="16px" alt="PowerBI " src="/images/mail.png"></a> </em> </br> </br>
+[LinkedIn](https://www.linkedin.com/in/pauliannefontoura/)
