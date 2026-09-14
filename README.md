@@ -1,7 +1,6 @@
 # Paulianne Fontoura
 
-Data analyst and analytics engineer. I build data pipelines in SQL, Python and dbt, with the tests and checks that keep the numbers right.
-
+Data analyst and analytics engineer. 
 My work covers ingestion from heterogeneous sources, dimensional modeling, data tests, reconciliation against published figures, and automated reporting.
 
 **Publications**
